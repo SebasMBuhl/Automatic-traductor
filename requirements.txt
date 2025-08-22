@@ -1,3 +1,0 @@
-!pip install langdetect
-!pip install deep-translator
-!pip install pycountry
